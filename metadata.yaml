@@ -1,0 +1,31 @@
+_repo: Wit-Humor-Reason-Rhetoric-Prose-Poetry-and-Story-Woven-into-Eight-Popular-Lectures_16858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bain, George Washington
+    birthdate: 1840
+    gutenberg_agent_id: '6975'
+    url: http://www.gutenberg.org/2009/agents/6975
+description: ''
+gutenberg_issued: '2005-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'AC'
+tableOfContents: Among the massess; or, Traits of character -- A searchlight of the
+  twentieth century -- Our country, our homes and our duty -- The new woman and the
+  old man -- The safe side of life for young men -- Platform experiences -- The defeat
+  of the nation's dragon -- If I could live life over.
+title: Wit, Humor, Reason, Rhetoric, Prose, Poetry and Story Woven into Eight Popular
+  Lectures
+url: http://www.gutenberg.org/ebooks/16858
